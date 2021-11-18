@@ -19,7 +19,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "run": "node src/index.js",
+    "start": "node src/sendd.js",
      "test": "echo \"Error: no test specified\" && exit 1"
    }
 }
