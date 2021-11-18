@@ -2,8 +2,9 @@ topics:
 	rpk topic create chat-room
 	rpk topic list
 
-setup:
+init:
 	npm init
+setup:
 	npm i -D typescript
 	npm i -D @types/node
 	npm i kafkajs
